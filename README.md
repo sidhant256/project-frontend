@@ -1,12 +1,37 @@
-# React + Vite
+# Frontend Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend assignment project, built with **React**, **Vite**, **Tailwind CSS**, and **React Hook Form**. It includes a responsive layout, a task management interface, and a styled contact form with phone input validation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- **React 19**
+- **Vite**
+- **Tailwind CSS 4**
+- **React Hook Form**
+- **React Phone Input 2**
+- **React Icons**
+- **ESLint** for linting
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Installation
+
+Make sure you have **Node.js** and **npm** installed on your machine.
+
+### 1. Clone the repository
+
+git clone https://github.com/your-username/ebpearls-frontend.git
+--- cd ebpearls-frontend
+
+2. Install dependencies
+--- npm install
+
+🛠️ Available Scripts
+3. In the project directory, you can run:
+
+--- npm run dev
+Runs the app in development mode. Open http://localhost:5173 to view it in the browser.
+
+You can visit the webpage from https://sidhant256.github.io/project-frontend/ 
